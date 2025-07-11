@@ -9,6 +9,8 @@ return {
         "lua-language-server",
         "stylua",
         "shfmt",
+        "tailwindcss-language-server",
+        "typescript-language-server"
       },
     },
   },
